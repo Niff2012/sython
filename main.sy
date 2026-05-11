@@ -1,1 +1,2 @@
-import(penguin)
+import(console)
+console.open
