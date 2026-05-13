@@ -1,2 +1,3 @@
 import(console)
-console
+console(open)
+console(log(Hello,/space/world))
