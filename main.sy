@@ -1,6 +1,4 @@
 import(console)
 import(packager)
-
 console(open)
-
-packager
+packager(install(test))
