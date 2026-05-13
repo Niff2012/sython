@@ -1,4 +1,4 @@
 import(console)
 console(open)
 console(clear)
-console(print(/|=/__COLOR:#000000__/=|/Hello,/space/world!!!/|=/__END__/=|/))
+console(print(/|=/__COLOR:#000000__/=|/Hello,/space/world!/|=/__END__/=|/))
