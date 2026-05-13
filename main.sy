@@ -1,4 +1,4 @@
 import(console)
 import(packager)
 console(open)
-packager(install(test))
+packager install test 123
