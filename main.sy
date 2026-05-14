@@ -1,4 +1,4 @@
 import(console)
 import(packager)
 console(open)
-packager install test 123
+packager install niff2012 test
