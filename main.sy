@@ -2,3 +2,4 @@ import(console)
 import(packager)
 console(open)
 packager install niff2012 test
+test()
